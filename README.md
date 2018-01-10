@@ -35,6 +35,9 @@ Usng the compromised information from the HTML comment, we can SSH to the VM as 
 
 A 'cat' on /etc/passwd file shows additional users. 
 
+![Alt text](./etc-passwd.png?raw=true)
+
+
 Using the 'eugene' user and brute forcing with 'Hackers' passwords, we get a shell with 'secret'.
 
 ![Alt text](./script.png?raw=true)
